@@ -1,0 +1,26 @@
+1. What is enumeration in java? With an example syntax explain enumeration.
+
+2. Implement Java enumeration by using default explicit, parametrised constructors
+and method? Explain values() and valueOf() method with suitable example.
+
+3. Enumerations are class type. Justify with suitable example program.
+
+4. With an example program describe a)ordinal() b)compareTo() c) equals()
+d) Enum class
+
+5. Describe Boxing and Unboxing in java? Write java program for auto boxingand
+auto unboxing.
+
+6. What is Annotation? List some of the advantages of Annotation in java
+
+7. Apply the annotation for method overriding, method deprecation andwarning
+avoidance. Describe the above with suitable program.
+
+8. What is Annotation? Explain the types on annotations.
+
+9. Implement a java program
+a) By applying annotation at RUNTIME.
+b) By specify annotation target at method.
+c) Make annotation available for subclass
+
+10. List some of the restrictions imposed on annotations.
